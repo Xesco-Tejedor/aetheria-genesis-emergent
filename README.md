@@ -16,7 +16,7 @@ Abre la demo de GitHub Pages del repositorio. No necesita cuenta, compras ni ser
 6. Para detener la fuga, rodéala con seis honguitos. **Limpiar** ayuda con el veneno residual cercano a la flor madura.
 7. Un guardián requiere polinizador, quelonio, liquen maduro, al menos doce lugares vivos y treinta latidos continuos sin veneno en su área. Su suelo queda protegido y permite una sucesión viva.
 
-El jardín se guarda en este navegador. **Empezar de nuevo** pide confirmación antes de borrar ese progreso. No se sincroniza entre dispositivos. Las intervenciones gastan luz, que se regenera con la biodiversidad. Los botones de giro y zoom cambian la vista.
+El jardín se guarda en este navegador. **Empezar de nuevo** pide confirmación antes de borrar ese progreso. No se sincroniza entre dispositivos. Las intervenciones gastan luz, que se regenera con la biodiversidad. Los botones de giro y zoom cambian la vista. En pantalla táctil, tocar solo selecciona y no gasta luz: comprueba el círculo y confirma con el botón que muestra la acción y su coste. Las flechas del panel cambian de lugar sin precisión de dedo. Con el lienzo enfocado, flechas izquierda/derecha cambian la selección y Enter aplica la herramienta. Los textos de herramientas tienen más contraste y los botones mantienen al menos 44 px.
 
 ### Alcance del incremento del 28 de octubre de 2026
 
